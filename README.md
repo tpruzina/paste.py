@@ -6,6 +6,8 @@ simple, yet powerfull paste server which uses nc (netcat) for printing
 All the credit goes to mr.  Carey Underwood (cwillu at cwillu dot com)
 
 
+Dependencies: twisted, jinja:2
+
 usage:
 <pre>
 cat file | nc <server> 10101
