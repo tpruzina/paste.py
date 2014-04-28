@@ -3,7 +3,7 @@ paste.py
 
 simple, yet powerfull paste server which uses nc (netcat) for printing
 
-All the credit goes to mr.  Carey Underwood <cwillu at cwillu dot com>
+All the credit goes to mr.  Carey Underwood (cwillu at cwillu dot com)
 
 
 usage:
